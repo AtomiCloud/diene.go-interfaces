@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/AtomiCloud/diene.go-interfaces/compare/v1.0.0...v1.0.1) (2026-07-24)
+
+
+### 🐛 Bug Fixes 🐛
+
+* **ci:** resolve proxy consumer dependencies ([cec3ce6](https://github.com/AtomiCloud/diene.go-interfaces/commit/cec3ce627bfe42c9720f026c3926163915f13f26))
+
 ## 1.0.0 (2026-07-24)
 
 
