@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/AtomiCloud/diene.go-interfaces/compare/v1.0.1...v1.0.2) (2026-07-24)
+
+
+### 🐛 Bug Fixes 🐛
+
+* **review:** harden examples and test guards ([1eaa90c](https://github.com/AtomiCloud/diene.go-interfaces/commit/1eaa90c167c6de4c70f28c63e3939cf55e2ed723))
+
 ## [1.0.1](https://github.com/AtomiCloud/diene.go-interfaces/compare/v1.0.0...v1.0.1) (2026-07-24)
 
 
